@@ -13,7 +13,7 @@ import (
 )
 
 const localUrl = "http://localhost:8545"
-const sepoliaUrl = "https://sepolia.infura.io/v3/bddf65196a4741d68cd9acdd16a3042b"
+const sepoliaUrl = "https://sepolia.infura.io/v3/123"
 
 func TestETHRPCRequester_GetTransactionByHash(t *testing.T) {
 	txHash := "0xdba68e394b13ba81e6645d7f4bfeec950a8f7a881777d19ce19d6bff4524362d"

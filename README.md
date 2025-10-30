@@ -5,7 +5,7 @@
 
 ---
 
-## 功能特性
+## 亮眼特性（Why It's Awesome）
 
 | 特性 | 说明 |
 |------|------|
@@ -237,5 +237,16 @@ git commit -m "feat: add xxx"
 ## 许可证
 
 ```
-MIT License © 2025 ciphermagic
+MIT License © 2025 www.ciphermagic.cn
 ```
+
+---
+
+> **一句话总结**：  
+> `eth-relay` 是一个 **生产级以太坊区块中继**，具备 **分叉回滚、重试机制、批量 RPC、Nonce 管理**，开箱即用，适合任何需要可靠链上数据的后端服务。
+
+---
+
+**Star me on GitHub**  
+[https://github.com/ciphermagic/eth-relay](https://github.com/ciphermagic/eth-relay)
+
