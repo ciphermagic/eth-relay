@@ -5,7 +5,7 @@
 
 ---
 
-## 亮眼特性（Why It's Awesome）
+## 功能特性
 
 | 特性 | 说明 |
 |------|------|
@@ -44,7 +44,7 @@ eth-relay/
 
 ---
 
-## 核心流程图（ASCII）
+## 核心流程图
 
 ```text
 [ETH Node] ←RPC→ [ETHRPCRequester]
